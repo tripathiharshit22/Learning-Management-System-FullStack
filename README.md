@@ -43,26 +43,4 @@ This LMS enables:
 
 ---
 
-## 📂 Project Structure
 
-Learning-Management-System-FullStack/
-├── backend/ # Node.js + Express backend
-│ ├── controllers/ # Logic for handling API requests
-│ ├── models/ # Mongoose schemas (User, Course, Progress)
-│ ├── routes/ # API route definitions
-│ ├── middlewares/ # Auth, error handling, validators
-│ ├── utils/ # Helper functions (e.g. courseProgress)
-│ └── server.js # Entry point of the backend server
-│
-├── frontend/ # React + Vite frontend
-│ ├── src/
-│ │ ├── components/ # Reusable UI components (Navbar, Footer)
-│ │ ├── pages/ # Route-based pages (Home, Course, Player)
-│ │ ├── context/ # Global state and auth using Context API
-│ │ ├── services/ # API utilities using Axios
-│ │ └── App.jsx # Main application with routing
-│ └── tailwind.config.js # Tailwind CSS configuration
-│
-├── .env.example # Example environment variable file
-├── README.md # Project documentation
-└── package.json # Project dependencies (for backend)
