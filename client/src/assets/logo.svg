@@ -1,0 +1,15 @@
+<svg width="250" height="60" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="20" cy="20" r="18" fill="#000000"/>
+
+  <!-- Graduation Cap Icon (Simplified) -->
+  <path d="M20 12L30 17L20 22L10 17L20 12Z" fill="white"/>
+  <path d="M20 22V27" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20 27L23 30" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="23" cy="30" r="1.5" fill="white"/>
+
+  <!-- Text -->
+  <text x="45" y="30" font-family="Inter, sans-serif" font-size="30" font-weight="bold" fill="#1E293B">
+    SkillNova
+  </text>
+</svg>
