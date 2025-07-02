@@ -39,7 +39,7 @@ This LMS enables:
 | Database    | MongoDB with Mongoose         |
 | Auth        | Clerk.dev                     |
 | Payments    | Stripe API                    |
-| Deployment  | (Add here: Vercel, Render, etc.) |
+| Deployment  | Vercel                        |
 
 ---
 
